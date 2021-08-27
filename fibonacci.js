@@ -23,5 +23,5 @@ const memoFibonacci = (n, memo = {}) => {
 
 // console.log(memoFibonacci(6));
 // console.log(memoFibonacci(10));
-// console.log(memoFibonacci(100));
+console.log(memoFibonacci(100));
 
